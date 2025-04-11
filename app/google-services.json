@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "29058280765",
+    "firebase_url": "https://data-music-bfc40-default-rtdb.firebaseio.com",
+    "project_id": "data-music-bfc40",
+    "storage_bucket": "data-music-bfc40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29058280765:android:77393d1dab0c08874ce954",
+        "android_client_info": {
+          "package_name": "com.example.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_v62o_I2TQAK-10C66gLEVXaiboJQJ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
